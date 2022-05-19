@@ -48,6 +48,8 @@ select the word from the block. The rest of the type declaration is found in the
 
 	1-bit Ready signal, saying the memory operation is complete
 
+![cache_structure](https://user-images.githubusercontent.com/105862227/169352909-12ac2c86-3815-4c48-a42b-6fb282712a45.png)
+
 ## FSM Logic:
 
 There are 4 states for the FSM:
@@ -86,4 +88,4 @@ Read miss?
 FSM goes to the Allocate state.
 
 ```
-
+![phpoMLHDa](https://user-images.githubusercontent.com/105862227/169352622-b0c9ccbb-5cc5-489d-95ef-611379397ea2.png)
