@@ -1,6 +1,6 @@
 
 `timescale 1ns/1ns
-// https://electrobinary.blogspot.com/2021/05/cache-controller-design-verilog-code.html?m=1
+
 module cache_controller_tb;
 
 reg clk =1'b0;;
